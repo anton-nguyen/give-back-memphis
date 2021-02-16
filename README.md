@@ -1,3 +1,1 @@
 # give-back-memphis
-
-readme
