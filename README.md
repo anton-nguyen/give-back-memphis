@@ -1,5 +1,3 @@
-# give-back-memphis
-
 # Give Back Memphis
 
 ## Intro
