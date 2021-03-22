@@ -2,8 +2,8 @@
 
 # Give Back Memphis
 
-# Intro
+## Intro
 
 [URL](https://www.givebackmemphis.org/)
 
-# Installation
+## Installation
