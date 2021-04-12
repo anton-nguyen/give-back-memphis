@@ -506,7 +506,7 @@ a:focus {
 }
 
 .navbar-brand span {
-  color: #79b473;
+  color: #243746;
 }
 
 .dropdown-menu {
@@ -774,7 +774,6 @@ ul.dropdown-menu li {
   line-height: 38px;
   color: #242424;
   margin-bottom: 30px;
-  font-style: italic;
 }
 
 .testimonial-item .testimonial-item-content {
