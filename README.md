@@ -1,6 +1,4 @@
-# Give Back Memphis
-
-# Web Development Project
+# Give Back Memphis: Web Development Project
 
 ![Give Back Memphis Logo](./images/gbm/fontinkarla_color.png)
 
@@ -25,5 +23,5 @@ This static site is created with:
 
 ## Launch
 
-The static site is hosted with GitHub pages.
+The static site is hosted with GitHub pages:
 [URL](https://anton-nguyen.github.io/give-back-memphis/)
